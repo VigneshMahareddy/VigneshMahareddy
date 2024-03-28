@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VigneshMahareddy
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python,java,html/css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python,java,html/css,R,SQl,PLSQl
+- 📫 How to reach me vigneshmahareddy@gmail.com
 
 <!---
 VigneshMahareddy/VigneshMahareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
