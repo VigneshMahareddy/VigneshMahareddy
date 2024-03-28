@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @VigneshMahareddy
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning python,java,html/css,R,SQl,PLSQl
 - 📫 How to reach me vigneshmahareddy@gmail.com
 
