@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VigneshMahareddy
-- 🌱 I’m currently learning python,java,html/css,R,SQl,PLSQl
+- 🌱 I’m currently learning Python,CPP,R,SQl,PLSQl,EXCEL,TABLEAU(prep,desktop)
 - 📫 How to reach me vigneshmahareddy@gmail.com
 
 <!---
